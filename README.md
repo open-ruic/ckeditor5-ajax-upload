@@ -1,4 +1,6 @@
-## Ajax Support for Ckeditor5 ImageUpload
+## Ajax Support for Ckeditor5 ImageUpload [![npm version](https://badge.fury.io/js/ckeditor5-ajax-upload.svg)](https://badge.fury.io/js/ckeditor5-ajax-upload)
+
+[![NPM](https://nodei.co/npm/ckeditor5-ajax-upload.png)](https://nodei.co/npm/ckeditor5-ajax-upload/)
 
 ### build integration
 
