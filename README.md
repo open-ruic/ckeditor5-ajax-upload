@@ -77,15 +77,15 @@ ClassicEditor.builtinPlugins = [
 ```javascript
 ClassicEditor.create(document.querySelector( '#editor' ), {
     AjaxUpload: {
-		url:
-		headers:{ 'Authorization':'Bearer xxx' } 
+	url:
+	headers:{ 'Authorization':'Bearer xxx' } 
         onSuccess: function(res) {
-			// must return image url
-			return response.url;
-		},
-		onFail: function(res) {
+	    // must return image url
+	    return response.url;
+	},
+	onFail: function(res) {
 			
-		}
+	}
     }
 });
 ```
